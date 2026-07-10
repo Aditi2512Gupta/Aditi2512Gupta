@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditi Gupta</h1>
-<h3 align="center">B.Tech CS Student | Flutter Learner | DSA Enthusiast</h3>
+
+<h3 align="center">
+Flutter Developer • Firebase • Android Development • DSA
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditi-gupta-b8b49b329/">LinkedIn</a> •
@@ -8,18 +11,22 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 B.Tech CS student at KIET Group of Institutions (2024–2028)
-- 🌱 Learning Flutter, Web Development and DSA
-- 🧠 Solved DSA problems on LeetCode
-- 💻 Love building projects with HTML, CSS, JavaScript, Flutter
-- 🎯 Goal: Become a strong developer with real-world project skills
+## 🚀 About Me
 
+🎓 B.Tech Computer Science student at KIET Group of Institutions
+
+📱 Passionate about Flutter and Android Development
+
+🧠 Solved 180+ DSA problems on LeetCode
+
+☁️ Learning Firebase, REST APIs and Cloud
+
+🎯 Goal: Build production-quality mobile applications
 ---
 
 ### 🛠️ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python,c,html,css,js,mysql,git,github,vscode" />
 </p>
 
 ---
