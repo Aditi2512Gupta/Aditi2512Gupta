@@ -25,26 +25,9 @@ Flutter Developer • Firebase • Android Development • DSA
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,dart,python,js" />
-</p>
-
-### Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
-</p>
-
-### Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python,html,css,js,git,github,vscode" />
 </p>
 
 ---
