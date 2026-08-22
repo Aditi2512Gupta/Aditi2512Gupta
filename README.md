@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1020&height=190&section=header&text=ADITI%20GUPTA&fontSize=44&fontColor=F5F7FF&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20%7C%20Firebase%20%7C%20Android%20%7C%20DSA&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:6366F1&height=190&section=header&text=ADITI%20GUPTA&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20%7C%20Firebase%20%7C%20Android%20%7C%20DSA&descAlignY=60&descSize=17" width="100%"/>
 
 <br>
 
@@ -117,7 +117,7 @@ A travel companion designed around personalized trip planning, travel management
 
 <div align="center">
 
-### `180+` Problems Solved
+### `200+` Problems Solved
 
 <br>
 
@@ -144,7 +144,6 @@ A travel companion designed around personalized trip planning, travel management
 | 📱 | Flutter & Android development            |
 | ☁️ | Firebase & Firestore development         |
 | 🤖 | AI-powered application projects          |
-| 🏅 | MongoDB skill badges                     |
 | 🚀 | Hackathon & technical project experience |
 
 </div>
@@ -232,10 +231,18 @@ Full-Stack Applications
 
 ### Let's build something meaningful. 🚀
 
+<div align="center">
+
+### 🌙 Code. Create. Keep Exploring.
+
 <br>
 
 <a href="https://github.com/Aditi2512Gupta?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-4F46E5?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:0B1020&height=120&section=footer" width="100%"/>
 
 </div>
