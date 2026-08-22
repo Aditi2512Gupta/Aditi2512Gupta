@@ -1,105 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C5CFC&height=180&section=header&text=Aditi%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Firebase%20%7C%20Android%20%7C%20DSA&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1020&height=190&section=header&text=ADITI%20GUPTA&fontSize=44&fontColor=F5F7FF&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20%7C%20Firebase%20%7C%20Android%20%7C%20DSA&descAlignY=60&descSize=17" width="100%"/>
+
+<br>
 
 # 👋 Hi, I'm Aditi
 
-### Flutter Developer · Firebase · Android · DSA
+### `Flutter Developer` · `Firebase` · `Android` · `DSA`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&lines=Building+Flutter+Applications+%F0%9F%93%B1;Exploring+Firebase+%26+Cloud+%E2%98%81%EF%B8%8F;Solving+DSA+Problems+%F0%9F%A7%A0;Building+AI-powered+Products+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=8B7CFF&center=true&vCenter=true&width=650&lines=Building+Flutter+Applications+%F0%9F%93%B1;Exploring+Firebase+%26+Cloud+%E2%98%81%EF%B8%8F;Solving+DSA+Problems+%F0%9F%A7%A0;Building+AI-powered+Products+%F0%9F%9A%80" />
 
 <br>
 
 <a href="https://github.com/Aditi2512Gupta">
-<img src="https://img.shields.io/badge/GitHub-Aditi2512Gupta-181717?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Aditi2512Gupta-0B1020?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌙 About Me
 
-I'm a **B.Tech Computer Science student at KIET Group of Institutions** passionate about building practical software and turning ideas into real products.
+> **I like turning ideas into things people can actually use.**
 
-* 📱 Building mobile applications with **Flutter**
+I'm a **B.Tech Computer Science student at KIET Group of Institutions**, focused on mobile development and problem solving.
+
+* 📱 Building applications with **Flutter & Dart**
 * ☁️ Working with **Firebase & Firestore**
 * 🔌 Exploring **REST APIs and backend development**
-* 🧠 **200+ DSA problems solved**
+* 🧠 Solved **200+ DSA problems**
 * 🤖 Interested in **AI-powered applications**
-* 🚀 Focused on building useful, production-quality products
+* 🚀 Building projects that combine technology with real-world problems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Universe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,java,python,js,html,css,git,github,vscode,postman" />
+### 📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,android" />
+
+<br><br>
+
+### ☁️ Backend & Cloud
+
+<img src="https://skillicons.dev/icons?i=firebase,postman" />
+
+<br><br>
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+
+<br><br>
+
+### 🌐 Web & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
+## 🚀 Things I'm Building
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>💰 Finova</h3>
+### 💰 Finova
 
-<b>AI-powered personal finance companion</b>
+**AI-powered personal finance companion**
 
-<br><br>
+`Flutter` `Firebase` `Firestore`
 
-Flutter · Firebase · Firestore
+A finance application focused on smarter expense tracking, wallets, budgeting, analytics and AI-powered financial insights.
 
-<br><br>
+<br>
 
-Smart expense tracking, multiple wallets, budgeting, spending analytics and AI-powered financial insights.
-
-<br><br>
-
-<a href="https://github.com/Aditi2512Gupta">
-<img src="https://img.shields.io/badge/View_Project-7C5CFC?style=for-the-badge&logo=github&logoColor=white">
-</a>
+**Focus:**
+💳 Finance · 📊 Analytics · 🤖 AI
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>✈️ Voyara</h3>
+### ✈️ Voyara
 
-<b>AI-powered travel planning application</b>
+**AI-powered travel planning application**
 
-<br><br>
+`Flutter` `Firebase` `AI`
 
-Flutter · Firebase · AI
+A travel companion designed around personalized trip planning, travel management, expense tracking and intelligent assistance.
 
-<br><br>
+<br>
 
-Personalized trip planning, travel management, expense tracking and intelligent travel assistance.
-
-<br><br>
-
-<a href="https://github.com/Aditi2512Gupta">
-<img src="https://img.shields.io/badge/View_Project-7C5CFC?style=for-the-badge&logo=github&logoColor=white">
-</a>
+**Focus:**
+🗺️ Travel · 🤖 AI · 📱 Mobile
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -107,11 +117,86 @@ Personalized trip planning, travel management, expense tracking and intelligent 
 
 <div align="center">
 
-### `200+` Problems Solved
+### `180+` Problems Solved
 
-`Arrays` · `Strings` · `Recursion` · `Sorting` · `Searching`
+<br>
 
-`Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming`
+<img src="https://img.shields.io/badge/Arrays-0B1020?style=flat-square">
+<img src="https://img.shields.io/badge/Strings-0B1020?style=flat-square">
+<img src="https://img.shields.io/badge/Recursion-0B1020?style=flat-square">
+<img src="https://img.shields.io/badge/Sorting-0B1020?style=flat-square">
+<img src="https://img.shields.io/badge/Searching-0B1020?style=flat-square">
+<img src="https://img.shields.io/badge/Trees-0B1020?style=flat-square">
+<img src="https://img.shields.io/badge/Graphs-0B1020?style=flat-square">
+<img src="https://img.shields.io/badge/Dynamic_Programming-0B1020?style=flat-square">
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+|    | Achievement                              |
+| -- | ---------------------------------------- |
+| 🧠 | **200+ DSA problems solved**             |
+| 📱 | Flutter & Android development            |
+| ☁️ | Firebase & Firestore development         |
+| 🤖 | AI-powered application projects          |
+| 🏅 | MongoDB skill badges                     |
+| 🚀 | Hackathon & technical project experience |
+
+</div>
+
+---
+
+## 📜 Certifications & Learning
+
+<details>
+<summary><b>View selected certifications & learning</b></summary>
+
+<br>
+
+### ☁️ Cloud & AI
+
+- 🟠 **AWS Certified Developer – Associate**
+- 🤖 **AWS Certified AI Practitioner**
+- ☁️ **AWS Certified Cloud Practitioner**
+
+### 📱 Development
+
+- 📱 **Flutter** — Infosys Springboard
+- 🌐 **Network Technician Career Path** — Cisco
+
+### 🗄️ Databases & SQL
+
+- 🟧 **Oracle Database Programming with SQL** — Oracle
+- 🍃 **CRUD Operations in MongoDB** — MongoDB
+- 🍃 **From Relational Model (SQL) to MongoDB's Document Model** — MongoDB
+- 📊 **SQL for Analyst** — Google Developers Group
+
+</details>
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+```text
+Flutter
+   ↓
+Firebase & Firestore
+   ↓
+REST APIs
+   ↓
+Cloud
+   ↓
+Backend Development
+   ↓
+Full-Stack Applications
+```
 
 </div>
 
@@ -121,17 +206,23 @@ Personalized trip planning, travel management, expense tracking and intelligent 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi2512Gupta&bg_color=ffffff&color=24292f&line=7C5CFC&point=7C5CFC&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi2512Gupta&bg_color=0B1020&color=CBD5E1&line=8B7CFF&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🌌 Beyond the Code
 
 <div align="center">
 
-**Flutter** → **Firebase** → **REST APIs** → **Cloud** → **Backend**
+**Curious enough to learn.**
+**Stubborn enough to debug.**
+**Creative enough to build.**
+
+<br>
+
+`Learn` → `Build` → `Break` → `Debug` → `Improve`
 
 </div>
 
@@ -139,12 +230,12 @@ Personalized trip planning, travel management, expense tracking and intelligent 
 
 <div align="center">
 
-### 💜 Building. Learning. Improving.
+### Let's build something meaningful. 🚀
 
 <br>
 
 <a href="https://github.com/Aditi2512Gupta?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_My_Repositories-7C5CFC?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-4F46E5?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
