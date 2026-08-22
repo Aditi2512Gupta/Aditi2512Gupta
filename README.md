@@ -2,74 +2,58 @@
 
 # 👋 Hi, I'm Aditi Gupta
 
-### `Flutter Developer` • `Firebase` • `Android Development` • `DSA`
+### Flutter Developer · Firebase · Android · DSA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+beautiful+Flutter+apps+%F0%9F%93%B1;Learning+Firebase+%26+Cloud+%E2%98%81%EF%B8%8F;Solving+DSA+problems+%F0%9F%A7%A0;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=650&lines=Building+Flutter+Applications+%F0%9F%93%B1;Learning+Firebase+%26+Cloud+%E2%98%81%EF%B8%8F;Solving+DSA+Problems+%F0%9F%A7%A0;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
 
 <br>
 
 <a href="https://github.com/Aditi2512Gupta">
-<img src="https://img.shields.io/badge/GitHub-Aditi2512Gupta-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Aditi2512Gupta-181717?style=flat-square&logo=github">
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin">
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science student at **KIET Group of Institutions**
+I'm a **B.Tech Computer Science student at KIET Group of Institutions** who enjoys turning ideas into practical applications.
 
-📱 Passionate about building **Flutter & Android applications**
-
-🔥 Currently working with **Flutter, Firebase, REST APIs and Cloud**
-
-🧠 Solved **180+ DSA problems** and continuously improving problem-solving skills
-
-💡 Interested in **AI-powered applications and real-world products**
-
-🎯 Goal: Build scalable, production-quality applications that solve real problems
+- 📱 Building mobile applications with **Flutter**
+- ☁️ Working with **Firebase & Firestore**
+- 🔌 Learning **REST APIs & backend development**
+- 🧠 Solved **180+ DSA problems**
+- 🤖 Interested in **AI-powered applications**
+- 🚀 Focused on building real-world, production-quality products
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 📱 Mobile Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
-</p>
+### Mobile & Backend
 
-### ☁️ Backend & Cloud
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,postman" />
-</p>
+### Programming
 
-### 💻 Programming
-
-<p>
 <img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>
 
-### 🌐 Web Development
+### Web & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,postman" />
 
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -77,14 +61,11 @@
 
 ### 💰 Finova
 
-An **AI-powered personal finance companion** built with Flutter & Firebase.
+**AI-powered personal finance companion**
 
-* Smart expense tracking
-* Multiple wallets
-* Budget management
-* Spending analytics
-* AI financial insights
-* Cloud-based data
+Flutter · Firebase · Firestore
+
+Smart expense tracking, multiple wallets, budgeting, analytics and AI-powered financial insights.
 
 </td>
 
@@ -92,13 +73,11 @@ An **AI-powered personal finance companion** built with Flutter & Firebase.
 
 ### ✈️ Voyara
 
-An **AI-powered travel planning application** focused on creating smarter and more personalized travel experiences.
+**AI-powered travel planning application**
 
-* AI trip planning
-* Travel management
-* Expense tracking
-* Firebase backend
-* Modern Flutter UI
+Flutter · Firebase · AI
+
+Personalized trip planning, travel management, expense tracking and intelligent travel assistance.
 
 </td>
 </tr>
@@ -110,9 +89,10 @@ An **AI-powered travel planning application** focused on creating smarter and mo
 
 <div align="center">
 
-### `180+` Problems Solved 🧩
+### 180+ Problems Solved
 
-**Arrays • Strings • Recursion • Sorting • Searching • Linked Lists • Trees • Dynamic Programming • Graphs**
+`Arrays` · `Strings` · `Recursion` · `Sorting` · `Searching`  
+`Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming`
 
 </div>
 
@@ -120,77 +100,30 @@ An **AI-powered travel planning application** focused on creating smarter and mo
 
 ## 📚 Currently Learning
 
-```text
-Flutter
-   ↓
-Firebase & Firestore
-   ↓
-REST APIs
-   ↓
-Cloud & Backend Development
-   ↓
-Full-Stack Development
-```
+<div align="center">
+
+**Flutter** → **Firebase** → **REST APIs** → **Cloud** → **Backend**
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Journey
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditi2512Gupta&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi2512Gupta&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi2512Gupta&bg_color=ffffff&color=333333&line=7C5CFC&point=7C5CFC&area=true&hide_border=true" />
 
 </div>
+
+---
+
+<div align="center">
+
+### 💡 Learn · Build · Debug · Improve
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aditi2512Gupta&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aditi2512Gupta/Aditi2512Gupta/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-* [x] Learn Flutter fundamentals
-* [x] Build real Flutter projects
-* [x] Start working with Firebase
-* [x] Solve 180+ DSA problems
-* [ ] Master REST APIs
-* [ ] Build production-ready mobile applications
-* [ ] Strengthen backend development
-* [ ] Build and deploy larger full-stack projects
-
----
-
-## 🌱 Beyond Code
-
-> **Learn → Build → Break → Debug → Improve → Repeat.**
-
-I'm constantly experimenting with new technologies, building projects, and improving one step at a time.
-
----
-
-<div align="center">
-
-### ⭐ If you find my projects interesting, consider starring them!
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Aditi2512Gupta&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Aditi2512Gupta&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
