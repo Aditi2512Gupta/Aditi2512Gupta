@@ -126,6 +126,7 @@ A travel companion designed around personalized trip planning, travel management
 <img src="https://img.shields.io/badge/Recursion-0B1020?style=flat-square">
 <img src="https://img.shields.io/badge/Sorting-0B1020?style=flat-square">
 <img src="https://img.shields.io/badge/Searching-0B1020?style=flat-square">
+<img src="https://img.shields.io/badge/Linked_Lists-0B1020?style=flat-square">
 <img src="https://img.shields.io/badge/Trees-0B1020?style=flat-square">
 <img src="https://img.shields.io/badge/Graphs-0B1020?style=flat-square">
 <img src="https://img.shields.io/badge/Dynamic_Programming-0B1020?style=flat-square">
@@ -226,10 +227,6 @@ Full-Stack Applications
 </div>
 
 ---
-
-<div align="center">
-
-### Let's build something meaningful. 🚀
 
 <div align="center">
 
