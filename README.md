@@ -206,7 +206,7 @@ Full-Stack Applications
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi2512Gupta&bg_color=0B1020&color=CBD5E1&line=8B7CFF&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi2512Gupta&theme=github-compact&hide_border=true" width="96%"/>
 
 </div>
 
