@@ -206,7 +206,7 @@ Full-Stack Applications
 
 <div align="center">
 
-<img src="https://github.com/Aditi2512Gupta/Aditi2512Gupta/blob/output/github-contribution-grid-snake.svg" width="96%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditi2512Gupta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=8B7CFF&icon_color=38BDF8" width="96%"/>
 
 </div>
 
