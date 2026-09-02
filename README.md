@@ -33,7 +33,7 @@ I'm a **B.Tech Computer Science student at KIET Group of Institutions**, focused
 * 📱 Building applications with **Flutter & Dart**
 * ☁️ Working with **Firebase & Firestore**
 * 🔌 Exploring **REST APIs and backend development**
-* 🧠 Solved **200+ DSA problems**
+* 🧠 Solved **250+ DSA problems**
 * 🤖 Interested in **AI-powered applications**
 * 🚀 Building projects that combine technology with real-world problems
 
@@ -141,7 +141,7 @@ A travel companion designed around personalized trip planning, travel management
 
 |    | Achievement                              |
 | -- | ---------------------------------------- |
-| 🧠 | **200+ DSA problems solved**             |
+| 🧠 | **250+ DSA problems solved**             |
 | 📱 | Flutter & Android development            |
 | ☁️ | Firebase & Firestore development         |
 | 🤖 | AI-powered application projects          |
@@ -206,7 +206,7 @@ Full-Stack Applications
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi2512Gupta&theme=github-compact&hide_border=true" width="96%"/>
+<img src="https://github.com/Aditi2512Gupta/Aditi2512Gupta/blob/output/github-contribution-grid-snake.svg" width="96%"/>
 
 </div>
 
