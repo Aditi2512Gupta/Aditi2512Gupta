@@ -206,7 +206,7 @@ Full-Stack Applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditi2512Gupta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=8B7CFF&icon_color=38BDF8" width="96%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditi2512Gupta&theme=tokyonight&hide_border=true&background=0B1020)](https://git.io/streak-stats)
 
 </div>
 
